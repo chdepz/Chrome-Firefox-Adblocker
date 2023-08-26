@@ -2,7 +2,7 @@
 	"name": "AdABlocker",
 	"manifest_version": 2,
 	"version": "1.0",
-	"description": "Sanket's AdABlocker",
+	"description": "Dipak chaudhary's Ad blocker",
 	"browser_action": {
 		"default_popup": "popup.html"
 	},
